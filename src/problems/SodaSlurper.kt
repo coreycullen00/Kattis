@@ -1,4 +1,4 @@
-package problems
+package src.problems
 
 fun main() {
     val (e, f, c) = readln().split(" ").map { it.toInt() }
